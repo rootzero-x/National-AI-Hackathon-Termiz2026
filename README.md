@@ -1,3 +1,4 @@
+[AgroMarkaz - AI-powered Smart Farming Platform (1).pdf](https://github.com/user-attachments/files/26437869/AgroMarkaz.-.AI-powered.Smart.Farming.Platform.1.pdf)
 # 🌾 AgroMarkaz - Qishloq Xo'jaligi Tizimi
 
 AgroMarkaz - bu Oʻzbekistondagi qishloq xo'jaligi mahsulotlarini bozorga chiqarish, sotiş va sotib olishni soddalashtiruvchi innovatsion raqamli platformadir. OPEN-AI GPT 5.4-PRO va Weather API texnologiyalari bilan integratsiyalashtirilgan.
