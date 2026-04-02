@@ -1,0 +1,1 @@
+# National-AI-Hackathon-Termiz2026
